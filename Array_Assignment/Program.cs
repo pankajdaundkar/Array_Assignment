@@ -29,7 +29,7 @@ namespace Array_Assignment
             {
 
             }
-            int[] array = new int[5] { 1, 2, 3, 4, 5 };
+            int[] array1 = new int[5] { 1, 2, 3, 4, 5 };
             Console.WriteLine("Enter any number");
             int searchNumber = Convert.ToInt32(Console.ReadLine());
             int index = -1;
@@ -187,6 +187,7 @@ namespace Array_Assignment
 
             }
         }
+    }
     }
 
 
